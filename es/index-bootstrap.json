@@ -1,0 +1,7 @@
+{
+  "aliases": {
+    "$ES_INDEX": {
+      "is_write_index": true
+    }
+  }
+}
